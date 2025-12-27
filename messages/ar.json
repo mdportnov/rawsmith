@@ -45,9 +45,12 @@
   },
   "contact": {
     "title": "زورونا",
-    "location": "عمّان، الأردن",
+    "address": "شارع كلية الشريعة 43، عمّان 11191",
     "hours": "مفتوح يومياً ٨ صباحاً - ١٠ مساءً",
-    "email": "hello@rawsmith.jo",
+    "phone": "079 736 2526",
+    "callUs": "اتصل أو واتساب",
+    "getDirections": "احصل على الاتجاهات",
+    "leaveReview": "اترك تقييماً",
     "followUs": "تابعونا",
     "instagram": "@rawsmith.jo"
   },

@@ -45,9 +45,12 @@
   },
   "contact": {
     "title": "Visit Us",
-    "location": "Amman, Jordan",
+    "address": "Al-Shariaah College St. 43, Amman 11191",
     "hours": "Open Daily 8AM - 10PM",
-    "email": "hello@rawsmith.jo",
+    "phone": "079 736 2526",
+    "callUs": "Call or WhatsApp",
+    "getDirections": "Get Directions",
+    "leaveReview": "Leave a Review",
     "followUs": "Follow Us",
     "instagram": "@rawsmith.jo"
   },
