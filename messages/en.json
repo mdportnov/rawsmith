@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "coffee": "Our Coffee",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "a matter of coffee concept",
+    "subtitle": "Specialty Coffee · Roastery · Academy",
+    "cta": "Discover More"
+  },
+  "about": {
+    "title": "Our Story",
+    "description": "Raw Smith is more than a coffee shop — it's a philosophy. Born in the heart of Amman, we craft each cup with precision and passion, sourcing the finest beans from around the world. Our commitment to quality extends from farm to cup, bringing you an authentic specialty coffee experience.",
+    "philosophy": "We believe in the raw, unfiltered beauty of coffee. Every bean tells a story of its origin, and we're here to share that narrative with you."
+  },
+  "services": {
+    "title": "What We Do",
+    "academy": {
+      "title": "Academy",
+      "description": "Master the art of coffee through our comprehensive training programs. From brewing fundamentals to advanced barista skills, we shape the next generation of coffee professionals."
+    },
+    "roasting": {
+      "title": "Roasting",
+      "description": "Our artisan roastery transforms green beans into exceptional coffee. Each batch is carefully profiled to bring out unique flavor characteristics."
+    },
+    "distribution": {
+      "title": "Distribution",
+      "description": "Partner with us to bring specialty coffee to your business. We supply freshly roasted beans to cafes, restaurants, and retailers across the region."
+    }
+  },
+  "coffee": {
+    "title": "Our Coffee",
+    "subtitle": "Single origins from around the world",
+    "origins": {
+      "ethiopia": "Ethiopia",
+      "colombia": "Colombia",
+      "kenya": "Kenya",
+      "guatemala": "Guatemala",
+      "brazil": "Brazil",
+      "yemen": "Yemen"
+    },
+    "cta": "Shop Beans"
+  },
+  "contact": {
+    "title": "Visit Us",
+    "location": "Amman, Jordan",
+    "hours": "Open Daily 8AM - 10PM",
+    "email": "hello@rawsmith.jo",
+    "followUs": "Follow Us",
+    "instagram": "@rawsmith.jo"
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "tagline": "Crafted with passion in Amman"
+  }
+}
